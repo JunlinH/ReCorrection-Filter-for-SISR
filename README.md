@@ -75,7 +75,7 @@ $ python metric.py
 
 
 ### Results:
-Below images show the results of not using correction filter VS using correction filter
+Below images show the results of not using correction filter VS using correction filter.
 <div class="row">
   <div class="column", float="left">
     <img src="https://user-images.githubusercontent.com/29801160/115499623-ba770880-a23d-11eb-81b9-762f2cd72e32.png", width=300>
