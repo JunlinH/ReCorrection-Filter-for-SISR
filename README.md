@@ -1,5 +1,7 @@
 # [Reproduce]-Correction-Filter-for-Single-Image-Super-Resolution
-This project reproduced the paper 'Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers' by Shady et al..
+This project reproduced the paper ['Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers'](https://arxiv.org/abs/1912.00157) by Shady et al..
+
+Through my experiments, it can be concluded that the main contribution of the paper is reproducible.
 
 ## Requirements
 - matplotlib
@@ -47,7 +49,7 @@ Your estimated image is stored in the path:
 ```
 
 ### To use super-resolvers
-This project usesw DBPN as the super-resolver. This repository does not include the DBPN due to the large file size. However, you can find it [here](https://github.com/alterzero/DBPN-Pytorch)
+This project uses DBPN super-resolver. This repository does not include DBPN due to its large file size. However, you can find the code [here](https://github.com/alterzero/DBPN-Pytorch)
 
 #### Node: In my experiments, the code of DBPN can't be run directly. If you are like me, got the result as follows:
 <img width="949" alt="Screen Shot 2021-04-21 at 12 38 55 AM" src="https://user-images.githubusercontent.com/29801160/115497688-25bedb80-a23a-11eb-93ce-c297a79dc064.png">
