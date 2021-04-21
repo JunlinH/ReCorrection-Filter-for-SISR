@@ -78,12 +78,12 @@ $ python metric.py
 The left images are DBPN without correction filter, the right images are DBPN with correction filter.
 <div class="row">
   <div class="column", float="left">
-    <img src="https://user-images.githubusercontent.com/29801160/115499623-ba770880-a23d-11eb-81b9-762f2cd72e32.png", width=400>
+    <img src="https://user-images.githubusercontent.com/29801160/115499623-ba770880-a23d-11eb-81b9-762f2cd72e32.png", width=300>
   </div>
     <div class="column">
   </div>
   <div class="column", float="right">
-    <img src="https://user-images.githubusercontent.com/29801160/115499605-b21ecd80-a23d-11eb-83c2-bcc707d8079c.png", width=400>
+    <img src="https://user-images.githubusercontent.com/29801160/115499605-b21ecd80-a23d-11eb-83c2-bcc707d8079c.png", width=300>
   </div>
 </div>
 <br>
@@ -92,12 +92,12 @@ The left images are DBPN without correction filter, the right images are DBPN wi
 
 <div class="row">
   <div class="column", float="left">
-    <img src="https://user-images.githubusercontent.com/29801160/115500678-c794f700-a23f-11eb-99e5-365bab179aab.png", width=400>
+    <img src="https://user-images.githubusercontent.com/29801160/115500678-c794f700-a23f-11eb-99e5-365bab179aab.png", width=300>
   </div>
     <div class="column">
   </div>
   <div class="column", float="right">
-    <img src="https://user-images.githubusercontent.com/29801160/115500662-c2d04300-a23f-11eb-9bd6-8c61e99119c1.png", width=400>
+    <img src="https://user-images.githubusercontent.com/29801160/115500662-c2d04300-a23f-11eb-9bd6-8c61e99119c1.png", width=300>
   </div>
 </div>
 <br>
@@ -105,12 +105,12 @@ The left images are DBPN without correction filter, the right images are DBPN wi
 
 <div class="row">
   <div class="column", float="left">
-    <img src="https://user-images.githubusercontent.com/29801160/115501158-b13b6b00-a240-11eb-98ef-541a3bb6a323.png", width=400>
+    <img src="https://user-images.githubusercontent.com/29801160/115501158-b13b6b00-a240-11eb-98ef-541a3bb6a323.png", width=300>
   </div>
     <div class="column">
   </div>
   <div class="column", float="right">
-    <img src="https://user-images.githubusercontent.com/29801160/115501203-c3b5a480-a240-11eb-9681-a8975d36fca5.png", width=400>
+    <img src="https://user-images.githubusercontent.com/29801160/115501203-c3b5a480-a240-11eb-9681-a8975d36fca5.png", width=300>
   </div>
 </div>
 
