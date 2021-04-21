@@ -49,9 +49,9 @@ Your estimated image is stored in the path:
 ```
 
 ### To use super-resolvers
-This project uses DBPN super-resolver. This repository does not include DBPN due to its large file size. However, you can find the code [here](https://github.com/alterzero/DBPN-Pytorch)
+This project uses DBPN super-resolver. This repository does not include DBPN due to its large file size. However, you can find it [here](https://github.com/alterzero/DBPN-Pytorch).
 
-#### Node: In my experiments, the code of DBPN can't be run directly. If you are like me, got the result as follows:
+#### Node: In my experiment, the code of DBPN can't be run directly. If you are like me, got the error like follows:
 <img width="949" alt="Screen Shot 2021-04-21 at 12 38 55 AM" src="https://user-images.githubusercontent.com/29801160/115497688-25bedb80-a23a-11eb-93ce-c297a79dc064.png">
 
 You can use the code below to avoid this error:
@@ -70,7 +70,7 @@ This project uses the same metrics as in the paper, namely, PSNR AND SSIM. To ev
 ```
 $ python metric.py
 ```
-#### Node: you might need to change the default input and output directory in the code.
+#### Node: you might need to change the default input and output directory.
 
 
 
