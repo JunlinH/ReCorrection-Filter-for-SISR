@@ -15,7 +15,7 @@ Through my experiments, it can be concluded that the main contribution of the pa
 ## Usage
 First of all, install the prerequisites by running:
 ```
-$pip install requirements.txt
+$pip install -r requirements.txt
 ```
 To get the downsampled test image (generated using the Gaussian kernel), run the command line:
 ```
